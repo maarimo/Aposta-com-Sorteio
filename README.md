@@ -1,0 +1,2 @@
+# loteria
+ jogo de aposta
