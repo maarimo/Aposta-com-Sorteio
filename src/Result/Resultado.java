@@ -10,7 +10,7 @@ public class Resultado {
 
 	
 	public int sortear() {
-		return ThreadLocalRandom.current().nextInt(1, 2);
+		return ThreadLocalRandom.current().nextInt(1, 5);
 		}
 	
 	
